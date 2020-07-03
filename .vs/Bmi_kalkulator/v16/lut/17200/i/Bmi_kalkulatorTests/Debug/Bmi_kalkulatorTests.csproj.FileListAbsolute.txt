@@ -1,0 +1,2 @@
+C:\Users\barna\source\repos\Bmi_kalkulator\.vs\Bmi_kalkulator\v16\lut\0\i\Bmi_kalkulatorTests\Debug\Bmi_kalkulatorTests.csprojAssemblyReference.cache
+C:\Users\barna\source\repos\Bmi_kalkulator\.vs\Bmi_kalkulator\v16\lut\0\i\Bmi_kalkulatorTests\Debug\Bmi_kalkulatorTests.csproj.CoreCompileInputs.cache

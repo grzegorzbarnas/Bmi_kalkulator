@@ -1,0 +1,17 @@
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\obj\Debug\Bmi_kalkulatorTests.csprojAssemblyReference.cache
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\obj\Debug\Bmi_kalkulatorTests.csproj.CoreCompileInputs.cache
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\bin\Debug\Bmi_kalkulatorTests.dll
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\bin\Debug\Bmi_kalkulatorTests.pdb
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\bin\Debug\Bmi_kalkulator.exe
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\bin\Debug\Bmi_kalkulator.pdb
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\bin\Debug\Bmi_kalkulator.exe.config
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\obj\Debug\Bmi_kalkulatorTests.csproj.CopyComplete
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\obj\Debug\Bmi_kalkulatorTests.dll
+C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\obj\Debug\Bmi_kalkulatorTests.pdb

@@ -1,0 +1,20 @@
+[21:04:42.154 Verbose] - BuildManager - C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\Form1Tests.cs(19,32): error CS0103: The name 'button4_Click' does not exist in the current context
+[21:04:42.164 Verbose] - BuildManager - Some of the file paths defined in the csproj under the Live Unit Testing build path are missing. Verify whether these files should be present under the Live Unit Testing build path and if necessary update the csproj definition to look these files up in a different place.
+[21:04:42.164 Verbose] - BuildManager - Item _OutputPathItem 'C:\Users\barna\source\repos\Bmi_kalkulator\.vs\Bmi_kalkulator\v16\lut\0\b\Bmi_kalkulatorTests\bin\Debug\' evaluated via:
+_OutputPathItem: '$(OutDir)' @ E:\Programowanie\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:272
+  OutDir: 'C:\Users\barna\source\repos\Bmi_kalkulator\.vs\Bmi_kalkulator\v16\lut\0\b\Bmi_kalkulatorTests\bin\Debug\' @ C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\Bmi_kalkulatorTests.csproj:0
+[21:04:42.164 Verbose] - BuildManager - Item AppConfigFileDestination 'C:\Users\barna\source\repos\Bmi_kalkulator\.vs\Bmi_kalkulator\v16\lut\0\b\Bmi_kalkulatorTests\bin\Debug\Bmi_kalkulatorTests.dll.config' evaluated via:
+AppConfigFileDestination: '$(OutDir)$(TargetFileName).config' @ E:\Programowanie\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:303
+  OutDir: 'C:\Users\barna\source\repos\Bmi_kalkulator\.vs\Bmi_kalkulator\v16\lut\0\b\Bmi_kalkulatorTests\bin\Debug\' @ C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\Bmi_kalkulatorTests.csproj:0
+  TargetFileName: '$(TargetName)$(TargetExt)' @ E:\Programowanie\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:212
+    TargetName: '$(AssemblyName)' @ E:\Programowanie\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:204
+      AssemblyName: 'Bmi_kalkulatorTests' @ C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\Bmi_kalkulatorTests.csproj:11
+    TargetExt: '.dll' @ E:\Programowanie\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:183
+[21:04:42.165 Verbose] - BuildManager - Item _DebugSymbolsOutputPath 'C:\Users\barna\source\repos\Bmi_kalkulator\.vs\Bmi_kalkulator\v16\lut\0\b\Bmi_kalkulatorTests\bin\Debug\Bmi_kalkulatorTests.pdb' evaluated via:
+_DebugSymbolsOutputPath: '@(_DebugSymbolsIntermediatePath->'$(OutDir)%(Filename)%(Extension)')' @ E:\Programowanie\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:372
+  OutDir: 'C:\Users\barna\source\repos\Bmi_kalkulator\.vs\Bmi_kalkulator\v16\lut\0\b\Bmi_kalkulatorTests\bin\Debug\' @ C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\Bmi_kalkulatorTests.csproj:0
+[21:04:42.165 Verbose] - BuildManager - Item _ApplicationManifestFinal 'C:\Users\barna\source\repos\Bmi_kalkulator\.vs\Bmi_kalkulator\v16\lut\0\b\Bmi_kalkulatorTests\bin\Debug\Native.Bmi_kalkulatorTests.manifest' evaluated via:
+_ApplicationManifestFinal: '$(OutDir)$(_DeploymentTargetApplicationManifestFileName)' @ E:\Programowanie\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:410
+  OutDir: 'C:\Users\barna\source\repos\Bmi_kalkulator\.vs\Bmi_kalkulator\v16\lut\0\b\Bmi_kalkulatorTests\bin\Debug\' @ C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\Bmi_kalkulatorTests.csproj:0
+  _DeploymentTargetApplicationManifestFileName: 'Native.$(AssemblyName).manifest' @ E:\Programowanie\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:228
+    AssemblyName: 'Bmi_kalkulatorTests' @ C:\Users\barna\source\repos\Bmi_kalkulator\Bmi_kalkulatorTests\Bmi_kalkulatorTests.csproj:11
